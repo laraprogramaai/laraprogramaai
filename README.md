@@ -1,8 +1,6 @@
 ### Hey Everyone!
-**laraprogramaai/laraprogramaai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Lara Magalhães Tagliani**, and I'm a front-end developer. I'm always looking for opportunities to learn and grow. I strive to be someone who takes pride in what I do.
 <br>
-🌱 I’m currently learning ...
- <br>
   ### My Social Media:
  
 <div> 
@@ -13,7 +11,7 @@
  
 </div>
 
-<h2> 💻 &nbsp;Technologies that I use</h2>
+<h3> 💻 &nbsp;Technologies that I use:</h3>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
